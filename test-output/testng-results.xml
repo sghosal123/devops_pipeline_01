@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriver" duration-ms="9033" started-at="2021-10-09T16:22:17 IST" finished-at="2021-10-09T16:22:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9033" started-at="2021-10-09T16:22:17 IST" finished-at="2021-10-09T16:22:26 IST">
+      <class name="TestNG.NewTest_01">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.NewTest_01@7e2d773b]" name="launch" is-config="true" duration-ms="7071" started-at="2021-10-09T16:22:17 IST" finished-at="2021-10-09T16:22:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="wbd1()[pri:0, instance:TestNG.NewTest_01@7e2d773b]" name="wbd1" duration-ms="1701" started-at="2021-10-09T16:22:24 IST" finished-at="2021-10-09T16:22:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wbd1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.NewTest_01@7e2d773b]" name="close" is-config="true" duration-ms="203" started-at="2021-10-09T16:22:26 IST" finished-at="2021-10-09T16:22:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.NewTest_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- WebDriver -->
+</testng-results>
